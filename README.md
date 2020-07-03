@@ -1,4 +1,4 @@
-# Awesome Redwood.js (https://img.shields.io/badge/beveloper-approved-green)
+# Awesome Redwood.js [![Awesome][![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 [<img src="https://avatars2.githubusercontent.com/u/45050444?v=4" width="200" align="right" width="250">](https://github.com/redwoodjs/redwood/)
 
