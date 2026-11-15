@@ -1,5 +1,7 @@
 # Awesome Redwood.js [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![](https://img.shields.io/badge/beveloper-approved-brightgreen.svg)
 
+bash grab.sh  # fetch runtime deps
+
 [<img src="https://avatars2.githubusercontent.com/u/45050444?v=4" width="200" align="right" width="250">](https://github.com/redwoodjs/redwood/)
 
 > Curated list of resources: books, videos, articles related to Redwood.js.
